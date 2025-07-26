@@ -1,0 +1,14 @@
+# 连回家
+IP-CIDR6,2001::/16,no-resolve
+# IP-CIDR6,240e::/16,no-resolve
+IP-CIDR6,2409::/16,no-resolve
+IP-CIDR,192.168.1.0/24,no-resolve
+IP-CIDR,192.168.6.0/24,no-resolve
+IP-CIDR,192.168.0.0/24,no-resolve
+IP-CIDR,192.168.100.0/24,no-resolve
+IP-CIDR,192.168.168.0/24,no-resolve
+
+# 广电谷豆
+DOMAIN-KEYWORD,gcable
+IP-CIDR,172.16.149.0/24,no-resolve
+IP-CIDR,172.16.146.0/24,no-resolve
