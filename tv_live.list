@@ -1,0 +1,26 @@
+# >电视直播
+# > 4gtv
+IP-CIDR,13.112.0.0/14
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,hamivideo.cdn.hinet.net
+DOMAIN-KEYWORD,hamivideo
+DOMAIN-SUFFIX,hinet.net
+
+# >香港
+DOMAIN-KEYWORD,rthk
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,edgeware.tvb.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,tdm.com.mo
+
+# >其他
+DOMAIN-KEYWORD,stream-link
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,mod.cht.com.tw
+DOMAIN-SUFFIX,stb.topmso.com.tw
